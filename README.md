@@ -5,7 +5,7 @@ Memory game built with React.
 
 ## Live App:
 
-[Check out the live app here](https://sjosevich.github.io/clicky-game/index.html)
+[Check out the live app here](https://sjosevich-clicky-game.herokuapp.com/)
 
 ### Overview
 
